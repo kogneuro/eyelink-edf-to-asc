@@ -1,7 +1,7 @@
 # EyeLink EDF → ASC Converter (Python)
 
 This project converts **EyeLink `.edf`** files into **`.asc`** using SR Research’s **`edf2asc64.exe`** via a Python wrapper.  
-It’s intended for **batch conversion** (no drag & drop).
+It’s intended for **batch conversion** (no drag & drop). If you have the **`edf2asc64.exe`** app but have an issue to run it; try this!
 
 ---
 
