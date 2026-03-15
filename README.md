@@ -25,7 +25,6 @@ For each `.edf` file in a target folder, the script:
 
 Example:
 
-
 C:\Users\user\Desktop\EyeLink\EDF_Access_API\Example
 edf2asc64.exe
 edfapi64.dll
